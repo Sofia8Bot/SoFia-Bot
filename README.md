@@ -1,4 +1,5 @@
-<p align="center">  
+
+  <p align="center">  
   <a href="https://secktoruserbot.onrender.com/">
     <img alt="secktor docs" height="300" src="https://telegra.ph/file/78a8b00eec0dc6c6b780f.jpg">
     <h1 align="center">Rin Sensei For Whatsapp Bot</h1>
@@ -15,3 +16,6 @@
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
 </p>
+
+
+---
